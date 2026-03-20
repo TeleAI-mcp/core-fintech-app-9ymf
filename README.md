@@ -1,2 +1,3 @@
-# core-fintech-app-9ymf
+# Core Fintech App 9Ymf
+
 A repository to test GitHub automation for issue management.
